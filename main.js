@@ -1,3 +1,5 @@
+// Code By Nill
+// Telegram : @nill404
 javascript:(function(){
   function getVar(mod, key) {
     try { return require([mod])[key]; } catch(e) { return ""; }
